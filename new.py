@@ -1,3 +1,4 @@
+print("Hello Sri Lanka")
 the_text=input("Enter some text.\n")
 
 #print-version1
